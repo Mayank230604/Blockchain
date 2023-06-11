@@ -10,7 +10,8 @@
     5.Node.js Runtime and NPM
     6.Python
 
-## Step 1: Create a new USERIt is always a smart idea not to use root to install these softwares. Let us create a new user.
+## Step 1: Create a new USER
+It is always a smart idea not to use root to install these softwares. Let us create a new user.
 
     sudo adduser kakarot
 
