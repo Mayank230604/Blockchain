@@ -13,4 +13,13 @@ We will be installing the following:
 ## Step 1: Create a new USER
 It is always a smart idea not to use root to install these softwares. Let us create a new user.
 
-          sudo adduser bibek
+  
+              sudo adduser kakarot
+          
+Now we need to add our user to the sudo group.
+
+              sudo usermod -aG sudo bibek
+          
+Switch to our newly created user:
+
+              su - kakarot
