@@ -55,7 +55,7 @@ Switch to our newly created user:
 ### Log out and Log back as a new user
 
     exit 
-    su - bibek
+    su - kakarot
 
 ## Step 3: Install Hyperledger Fabric Binaries, Docker Containers & Samples
     curl -sSL http://bit.ly/2ysbOFE | bash -s 1.4.4
