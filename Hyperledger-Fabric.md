@@ -1,6 +1,6 @@
 # Hyperledger-Fabric
 
-### To deploy Hyperledger Fabric using Docker on Ubuntu, you'll need to follow a series of steps to set up the environment and configure the Fabric network. Here's a high-level overview of the process:
+To deploy Hyperledger Fabric using Docker on Ubuntu, you'll need to follow a series of steps to set up the environment and configure the Fabric network. Here's a high-level overview of the process:
 
 ## We will be installing the following:
     1.Git
@@ -62,7 +62,7 @@ Switch to our newly created user:
      #You can replace 1.4.4 with 2.0.0 if you want to install 
     Fabric 2.0.0
 
-### You will find a new folder called fabric-samples inside your home folder.
+You will find a new folder called fabric-samples inside your home folder.
 
 ## Step 4: Test the Installation
 To make sure that everything works fine we will run a pre-built script called 
@@ -73,7 +73,7 @@ installed correctly or not.
     ./byfn.sh generate
     ./byfn.sh up
 
-### You should get something like below at the end of execution if everything went right. If not you may have made a mistake in the installation process.
+You should get something like below at the end of execution if everything went right. If not you may have made a mistake in the installation process.
 
     ========= All GOOD, BYFN execution completed ===========
 
@@ -92,7 +92,7 @@ installed correctly or not.
 
     ./byfn.sh down
     
-### Congratulations! You have successfully installed Hyperledger Fabric in your machine.
+Congratulations! You have successfully installed Hyperledger Fabric in your machine.
 
 
 
