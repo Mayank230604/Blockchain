@@ -23,7 +23,7 @@ Switch to our newly created user:
 
     su - kakarot
 
-## Step 2: Install PrerequisitesInstall Git, cURL, docker, docker-compose, Node.js , NPM & Pythonsudo 
+## Step 2: Install Prerequisites Install Git, cURL, docker, docker-compose, Node.js , NPM & Pythonsudo 
    
     apt-get update 
     sudo apt-get install git curl docker.io docker-compose nodejs 
