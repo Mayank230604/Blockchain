@@ -8,8 +8,7 @@
 
 Your metamask account should look something like this after mining the GoreliETH
 
-![Screenshot from 2023-06-11 17-29-45](https://github.com/Mayank230604/Blockchain/assets/120153596/c71ef667-31a5-4061-a8ee-74b5b5e73b08)
-
+![Screenshot from 2023-06-11 20-06-46](https://github.com/Mayank230604/Blockchain/assets/120153596/549540fd-a1e7-4b78-85b9-dcec416c792c)
 
 ## 20 lab
 1. Go to given link: https://20lab.app/ (20lab is an ERC-20 token generator tool)
@@ -25,4 +24,4 @@ Your metamask account should look something like this after mining the GoreliETH
  
  ## To see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
 
-![Screenshot from 2023-06-11 17-29-07](https://github.com/Mayank230604/Blockchain/assets/120153596/130f1941-c3a4-45eb-bf76-ccd59813c305)
+![Screenshot from 2023-06-11 20-08-44](https://github.com/Mayank230604/Blockchain/assets/120153596/60336720-cdf1-4bae-8783-2c372c177bb6)
