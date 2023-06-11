@@ -7,3 +7,4 @@
 4. Claim 0.01 GoerliETH or more.
 
 Your metamask account should look something like this after mining the GoreliETH
+(https://github.com/Mayank230604/Blockchain/assets/120153596/a3653ece-5e08-4c16-851a-4557ba4f3f49)
